@@ -1,0 +1,10 @@
+desc: Toggle reference track (inputs 3+4 should be ref track)
+
+slider1:0<0,1,1{Track,File}>Mode
+slider2:/::Filename
+in_pin:Regular Track 1
+in_pin:Regular Track 2
+in_pin:Reference Track 1
+in_pin:Reference Track 2
+
+
